@@ -3,4 +3,3 @@
 - 🌱 Currently expanding my knowledge at work, I'm on a journey to deepen my understanding of the web and engage in exciting web development projects!
 - 💬 Let's Connect
   - [LinkedIn](https://www.linkedin.com/in/devinmerchant/)
-  - Email: devinmerch@gmail.com
